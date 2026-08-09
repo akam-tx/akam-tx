@@ -27,7 +27,13 @@ My approach combines learning, building, teaching and continuous experimentation
 
 <hr>
 
-**EXPERIENCE** 
+<div align="center">
+
+ **EXPERIENCE** 
+ 
+ </div>
+
+
 
 <div align="center"><img src="https://img.shields.io/badge/3%2B%20YEARS-PROGRAMMING%20TEACHING-6D28D9?style=for-the-badge&logo=bookstack&logoColor=FFFFFF"/><br><br>
 
@@ -37,7 +43,12 @@ My approach combines learning, building, teaching and continuous experimentation
 
 <hr>
 
+<div align="center"> 
+
 **TECH STACK** 
+
+</div>
+
 
 ***Programming Languages***
 
@@ -59,7 +70,12 @@ My approach combines learning, building, teaching and continuous experimentation
 
 <hr>
 
+<div align="center">
+
 **SKILLS** 
+
+</div>
+
 
 <div align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -73,7 +89,12 @@ My approach combines learning, building, teaching and continuous experimentation
 <hr>
 
 
-**CURRENT FOCUS** 
+<div align="center">
+
+**CURRENT FOCUS**
+
+</div>
+ 
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=700&color=9B8CFF&center=true&vCenter=true&width=800&lines=Exploring+Artificial+Intelligence;Studying+Machine+Learning;Exploring+Deep+Learning;Building+with+Python;Developing+with+Django"/><br><br>
 
@@ -84,7 +105,13 @@ My approach combines learning, building, teaching and continuous experimentation
 
 <hr>
 
+<div align="center">
+
 **PROJECTS** 
+
+</div>
+
+
 
 <div align="center"><a href="https://github.com/Akam-tx?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
@@ -94,7 +121,13 @@ My approach combines learning, building, teaching and continuous experimentation
 
 <hr>
 
-**GOALS** 
+
+<div align="center">
+
+**GOALS**
+
+</div>
+ 
 
 <div align="center"><img src="https://img.shields.io/badge/BUILD-PRACTICAL%20AI%20SYSTEMS-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LEARN-MACHINE%20LEARNING-7C3AED?style=for-the-badge"/>
@@ -104,8 +137,13 @@ My approach combines learning, building, teaching and continuous experimentation
 
 <hr>
 
+<div align="center">
 
 **CONNECT** 
+
+</div>
+
+
 
 <div align="center"><a href="https://github.com/Akam-tx">
 <img src="https://img.shields.io/badge/GITHUB-AKAM--TX-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
