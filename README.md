@@ -27,7 +27,7 @@ My approach combines learning, building, teaching and continuous experimentation
 
 ---
 
-"EXPERIENCE"
+** "EXPERIENCE" ** 
 
 <div align="center"><img src="https://img.shields.io/badge/3%2B%20YEARS-PROGRAMMING%20TEACHING-6D28D9?style=for-the-badge&logo=bookstack&logoColor=FFFFFF"/><br><br>
 
@@ -35,7 +35,7 @@ My approach combines learning, building, teaching and continuous experimentation
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Teaching+Programming;Mentoring+Students;Building+Practical+Projects;Sharing+Programming+Knowledge"/></div>---
 
-"TECH STACK"
+** "TECH STACK" ** 
 
 Programming Languages
 
@@ -49,7 +49,7 @@ Programming Languages
 
 <div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/></div>---
 
-"SKILLS"
+** "SKILLS" ** 
 
 <div align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -59,7 +59,7 @@ Programming Languages
 <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-06B6D4?style=for-the-badge&logo=pytorch&logoColor=white"/></div>---
 
-"CURRENT FOCUS"
+** "CURRENT FOCUS" ** 
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=700&color=9B8CFF&center=true&vCenter=true&width=800&lines=Exploring+Artificial+Intelligence;Studying+Machine+Learning;Exploring+Deep+Learning;Building+with+Python;Developing+with+Django"/><br><br>
 
@@ -68,21 +68,21 @@ Programming Languages
 <img src="https://img.shields.io/badge/DL-DEEP%20LEARNING-06B6D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PY-PYTHON-3776AB?style=for-the-badge"/></div>---
 
-"GITHUB ANALYTICS"
+** "GITHUB ANALYTICS" ** 
 
 <div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Akam-tx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=080B14&title_color=9B8CFF&icon_color=06B6D4&text_color=CBD5E1"/><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akam-tx&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=080B14&title_color=9B8CFF&text_color=CBD5E1"/><br><br>
 
 <img src="https://streak-stats.demolab.com?user=Akam-tx&theme=tokyonight&hide_border=true&background=080B14&ring=8B5CF6&fire=06B6D4&currStreakLabel=9B8CFF"/></div>---
 
-"CONTRIBUTION ACTIVITY"
+** "CONTRIBUTION ACTIVITY" ** 
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Akam-tx&bg_color=080B14&color=9B8CFF&line=06B6D4&point=FFFFFF&area=true&hide_border=true"/></div>---
 
-"GITHUB TROPHIES"
+** "GITHUB TROPHIES" ** 
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Akam-tx&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/></div>---
 
-"PROJECTS"
+** "PROJECTS" ** 
 
 <div align="center"><a href="https://github.com/Akam-tx?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
@@ -90,7 +90,7 @@ Programming Languages
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=AI+Projects;Python+Projects;Django+Applications;Machine+Learning+Experiments;Deep+Learning+Projects"/></div>---
 
-"GOALS"
+** "GOALS" ** 
 
 <div align="center"><img src="https://img.shields.io/badge/BUILD-PRACTICAL%20AI%20SYSTEMS-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LEARN-MACHINE%20LEARNING-7C3AED?style=for-the-badge"/>
@@ -98,7 +98,7 @@ Programming Languages
 <img src="https://img.shields.io/badge/CREATE-REAL%20WORLD%20SOFTWARE-0891B2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CONTRIBUTE-OPEN%20SOURCE-14B8A6?style=for-the-badge"/></div>---
 
-"CONNECT"
+** "CONNECT" ** 
 
 <div align="center"><a href="https://github.com/Akam-tx">
 <img src="https://img.shields.io/badge/GITHUB-AKAM--TX-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
