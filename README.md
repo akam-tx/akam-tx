@@ -1,145 +1,110 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B14,50:5B21B6,100:06B6D4&text=AKAM&fontColor=FFFFFF&fontSize=72&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=60&descSize=18&animation=fadeIn"/><a href="https://github.com/Akam-tx">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=9B8CFF&center=true&vCenter=true&width=850&lines=Python+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+%7C+Deep+Learning;Django+Developer;Building+Intelligent+Systems" />
-</a><br><a href="https://github.com/Akam-tx">
-<img src="https://img.shields.io/badge/GitHub-Akam--tx-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://t.me/akamtx">
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,50:6D28D9,100:06B6D4&height=230&section=header&text=AKAM&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=60&descSize=18"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=9B8CFF&center=true&vCenter=true&width=850&lines=Python+Developer;AI+Enthusiast;Machine+Learning+%7C+Deep+Learning;Django+Developer;Programming+Instructor;Building+Intelligent+Systems"/><br><br>
+
+<a href="https://github.com/Akam-tx">
+<img src="https://img.shields.io/badge/GitHub-Akam--tx-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a><a href="https://t.me/akamtx">
 <img src="https://img.shields.io/badge/Telegram-%40akamtx-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
-</a>
-<a href="https://instagram.com/akamtx">
+</a><a href="https://instagram.com/akamtx">
 <img src="https://img.shields.io/badge/Instagram-%40akamtx-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a><br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Akam-tx&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/></div>---
 
-<div align="center">"SYSTEM STATUS"
+<div align="center">"ABOUT ME"
 
-╭──────────────────────────────────────────────╮
-│                                              │
-│   USER        : AKAM                         │
-│   ROLE        : DEVELOPER                    │
-│   FOCUS       : ARTIFICIAL INTELLIGENCE     │
-│   INTERESTS   : ML • DL • SOFTWARE          │
-│   STATUS      : LEARNING & BUILDING         │
-│                                              │
-╰──────────────────────────────────────────────╯
+"AI Developer • Python Developer • Programming Instructor"
 
-</div>---
+<br><img src="https://img.shields.io/badge/3%2B%20Years-Teaching%20Experience-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Django-0F766E?style=for-the-badge"/></div><br>I'm a developer focused on Artificial Intelligence, Machine Learning, Deep Learning and Software Development.
 
-"01 / ABOUT"
+I also have 3+ years of programming teaching experience, working with students at:
 
-class Developer:
+- Shahid Hastei Student Research Center — Sarpol-e Zahab
+- Farhangian Educational Institute — Sarpol-e Zahab
 
-    name = "AKAM"
-    username = "Akam-tx"
-
-    focus = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Deep Learning"
-    ]
-
-    development = [
-        "Python",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Django"
-    ]
-
-    mindset = "Learn → Build → Understand → Improve"
-
-I am a developer interested in Artificial Intelligence, Machine Learning, Deep Learning and Software Development.
-
-My goal is to build practical systems, understand the technologies behind them, and continuously improve through real projects.
+My approach combines learning, building, teaching and continuous experimentation.
 
 ---
 
+"01 / EXPERIENCE"
+
+<div align="center"><img src="https://img.shields.io/badge/3%2B%20YEARS-PROGRAMMING%20TEACHING-6D28D9?style=for-the-badge&logo=bookstack&logoColor=FFFFFF"/><br><br>
+
+<img src="https://img.shields.io/badge/SHARHID%20HASTEI%20STUDENT%20RESEARCH%20CENTER-Sarpol--e%20Zahab-06B6D4?style=for-the-badge"/><br><img src="https://img.shields.io/badge/FARHANGIAN%20EDUCATIONAL%20INSTITUTE-Sarpol--e%20Zahab-8B5CF6?style=for-the-badge"/><br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Teaching+Programming;Mentoring+Students;Building+Practical+Projects;Sharing+Programming+Knowledge"/></div>---
+
 "02 / TECH STACK"
 
-"LANGUAGES"
+Programming Languages
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,js,html,css"/></div>"FRAMEWORKS"
+<div align="center"><img src="https://skillicons.dev/icons?i=python,js,html,css"/></div>Framework
 
-<div align="center"><img src="https://skillicons.dev/icons?i=django"/></div>"AI / MACHINE LEARNING"
+<div align="center"><img src="https://skillicons.dev/icons?i=django"/></div>Artificial Intelligence
 
 <div align="center"><img src="https://img.shields.io/badge/Artificial%20Intelligence-0B1020?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-0B1020?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-0B1020?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/></div>"TOOLS"
+<img src="https://img.shields.io/badge/Deep%20Learning-0B1020?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/></div>Development Tools
 
 <div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/></div>---
 
 "03 / SKILLS"
 
-<div align="center"><table>
-<tr>
-<td align="center" width="50%">DEVELOPMENT
-
-"Python"
-
-"JavaScript"
-
-"HTML"
-
-"CSS"
-
-"Django"
-
-</td><td align="center" width="50%">ARTIFICIAL INTELLIGENCE
-
-"Machine Learning"
-
-"Deep Learning"
-
-"Artificial Intelligence"
-
-"Neural Networks"
-
-"Intelligent Systems"
-
-</td>
-</tr>
-</table></div>---
+<div align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/><br><img src="https://img.shields.io/badge/Artificial%20Intelligence-6D28D9?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-06B6D4?style=for-the-badge&logo=pytorch&logoColor=white"/></div>---
 
 "04 / CURRENT FOCUS"
 
-                    ┌─────────────────────┐
-                    │        AKAM         │
-                    │     AI LAB          │
-                    └──────────┬──────────┘
-                               │
-          ┌────────────────────┼────────────────────┐
-          │                    │                    │
-          ▼                    ▼                    ▼
-     ┌──────────┐         ┌──────────┐        ┌──────────┐
-     │    AI    │         │   WEB    │        │ PYTHON   │
-     └────┬─────┘         └────┬─────┘        └────┬─────┘
-          │                    │                    │
-          ▼                    ▼                    ▼
-   Machine Learning          Django             Software
-          │                  Backend            Development
-          ▼                    │
-   Deep Learning               ▼
-          │                  Web Apps
-          ▼
-   Intelligent Systems
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=700&color=9B8CFF&center=true&vCenter=true&width=800&lines=Exploring+Artificial+Intelligence;Studying+Machine+Learning;Exploring+Deep+Learning;Building+with+Python;Developing+with+Django"/><br><br>
 
----
+<img src="https://img.shields.io/badge/AI-ARTIFICIAL%20INTELLIGENCE-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-MACHINE%20LEARNING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DL-DEEP%20LEARNING-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PY-PYTHON-3776AB?style=for-the-badge"/></div>---
 
-"05 / EXPLORING"
+"05 / WHAT I DO"
 
-<div align="center">Area| Technologies
-Artificial Intelligence| AI Systems
-Machine Learning| ML Models & Algorithms
-Deep Learning| Neural Networks
-Backend Development| Python & Django
-Web Development| JavaScript, HTML & CSS
+<div align="center"><table>
+<tr><td align="center" width="250">AI
 
-</div>---
+Artificial Intelligence
+
+<br>Machine Learning
+
+<br>Deep Learning
+
+</td><td align="center" width="250">DEVELOPMENT
+
+Python
+
+<br>Django
+
+<br>JavaScript
+
+<br>HTML / CSS
+
+</td><td align="center" width="250">EDUCATION
+
+Programming
+
+<br>Student Mentoring
+
+<br>Practical Projects
+
+</td></tr>
+</table></div>---
 
 "06 / GITHUB ANALYTICS"
 
-<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Akam-tx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=080B14&title_color=9B8CFF&icon_color=06B6D4&text_color=CBD5E1"/><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akam-tx&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=080B14&title_color=9B8CFF&text_color=CBD5E1"/></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=Akam-tx&theme=tokyonight&hide_border=true&background=080B14&ring=8B5CF6&fire=06B6D4&currStreakLabel=9B8CFF&sideLabels=CBD5E1"/></div>---
+<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Akam-tx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=080B14&title_color=9B8CFF&icon_color=06B6D4&text_color=CBD5E1"/><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akam-tx&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=080B14&title_color=9B8CFF&text_color=CBD5E1"/><br><br>
+
+<img src="https://streak-stats.demolab.com?user=Akam-tx&theme=tokyonight&hide_border=true&background=080B14&ring=8B5CF6&fire=06B6D4&currStreakLabel=9B8CFF"/></div>---
 
 "07 / CONTRIBUTION ACTIVITY"
 
@@ -151,75 +116,34 @@ Web Development| JavaScript, HTML & CSS
 
 "09 / PROJECTS"
 
-<div align="center"><a href="https://github.com/Akam-tx?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a></div><br>╭──────────────────────────────────────────────────╮
-│                                                  │
-│   AI PROJECTS                                    │
-│   └── Machine Learning                           │
-│   └── Deep Learning                              │
-│   └── Intelligent Applications                   │
-│                                                  │
-│   SOFTWARE PROJECTS                              │
-│   └── Python                                     │
-│   └── Django                                     │
-│   └── Web Development                            │
-│                                                  │
-╰──────────────────────────────────────────────────╯
+<div align="center"><a href="https://github.com/Akam-tx?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a><br><br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=AI+Projects;Python+Projects;Django+Applications;Machine+Learning+Experiments;Deep+Learning+Projects"/></div>---
 
-"10 / DEVELOPER PHILOSOPHY"
+"10 / GOALS"
 
-<div align="center">       IDEA
-        │
-        ▼
-      LEARN
-        │
-        ▼
-      BUILD
-        │
-        ▼
-      BREAK
-        │
-        ▼
-   UNDERSTAND
-        │
-        ▼
-     IMPROVE
-        │
-        └───────────────► REPEAT
+<div align="center"><img src="https://img.shields.io/badge/BUILD-PRACTICAL%20AI%20SYSTEMS-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARN-MACHINE%20LEARNING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORE-DEEP%20LEARNING-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CREATE-REAL%20WORLD%20SOFTWARE-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CONTRIBUTE-OPEN%20SOURCE-14B8A6?style=for-the-badge"/></div>---
 
-«Don't just use technology. Understand it.»
-
----
-
-"11 / GOALS"
-
-[✓] Learn Python
-[✓] Explore Web Development
-[→] Build stronger Python projects
-[→] Develop Django applications
-[→] Study Machine Learning
-[→] Study Deep Learning
-[→] Build practical AI systems
-[→] Contribute to Open Source
-[→] Build something meaningful
-
----
-
-"12 / CONTRIBUTION SNAKE"
+"11 / CONTRIBUTION SNAKE"
 
 <div align="center"><img src="https://raw.githubusercontent.com/Akam-tx/Akam-tx/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/></div>---
 
-"13 / CONNECT"
+"12 / CONNECT"
 
 <div align="center"><a href="https://github.com/Akam-tx">
-<img src="https://img.shields.io/badge/GITHUB-Akam--tx-080B14?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-AKAM--TX-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a><a href="https://t.me/akamtx">
-<img src="https://img.shields.io/badge/TELEGRAM-%40akamtx-080B14?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
+<img src="https://img.shields.io/badge/TELEGRAM-%40AKAMTX-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
 </a><a href="https://instagram.com/akamtx">
-<img src="https://img.shields.io/badge/INSTAGRAM-%40akamtx-080B14?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a></div><br><div align="center">"Akam-tx"
+<img src="https://img.shields.io/badge/INSTAGRAM-%40AKAMTX-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a></div><br><br>
 
-Learn. Build. Understand. Improve.
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=650&lines=Learn.;Build.;Teach.;Improve."/><br><br>
 
-<br><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:5B21B6,100:080B14&height=140&section=footer"/></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:5B21B6,100:080B14&height=140&section=footer"/></div>
