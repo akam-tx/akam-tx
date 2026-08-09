@@ -40,13 +40,19 @@ My approach combines learning, building, teaching and continuous experimentation
 
 ***Programming Languages***
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,js,html,css"/></div>***Framework***
+<div align="center"><img src="https://skillicons.dev/icons?i=python,js,html,css"/></div>
 
-<div align="center"><img src="https://skillicons.dev/icons?i=django"/></div>***Artificial Intelligence***
+***Framework***
+
+<div align="center"><img src="https://skillicons.dev/icons?i=django"/></div>
+
+***Artificial Intelligence***
 
 <div align="center"><img src="https://img.shields.io/badge/Artificial%20Intelligence-0B1020?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-0B1020?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-0B1020?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/></div>***Development Tools***
+<img src="https://img.shields.io/badge/Deep%20Learning-0B1020?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/></div>
+
+***Development Tools***
 
 <div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/></div>
 
