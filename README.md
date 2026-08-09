@@ -98,10 +98,6 @@ Programming Languages
 <img src="https://img.shields.io/badge/CREATE-REAL%20WORLD%20SOFTWARE-0891B2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CONTRIBUTE-OPEN%20SOURCE-14B8A6?style=for-the-badge"/></div>---
 
-"CONTRIBUTION SNAKE"
-
-<div align="center"><img src="https://raw.githubusercontent.com/Akam-tx/Akam-tx/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/></div>---
-
 "CONNECT"
 
 <div align="center"><a href="https://github.com/Akam-tx">
