@@ -35,6 +35,7 @@ My approach combines learning, building, teaching and continuous experimentation
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Teaching+Programming;Mentoring+Students;Building+Practical+Projects;Sharing+Programming+Knowledge"/></div>
 
+
 **TECH STACK** 
 
 ***Programming Languages***
@@ -49,6 +50,7 @@ My approach combines learning, building, teaching and continuous experimentation
 
 <div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/></div>
 
+
 **SKILLS** 
 
 <div align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -59,6 +61,7 @@ My approach combines learning, building, teaching and continuous experimentation
 <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-06B6D4?style=for-the-badge&logo=pytorch&logoColor=white"/></div>
 
+
 **CURRENT FOCUS** 
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=700&color=9B8CFF&center=true&vCenter=true&width=800&lines=Exploring+Artificial+Intelligence;Studying+Machine+Learning;Exploring+Deep+Learning;Building+with+Python;Developing+with+Django"/><br><br>
@@ -68,10 +71,6 @@ My approach combines learning, building, teaching and continuous experimentation
 <img src="https://img.shields.io/badge/DL-DEEP%20LEARNING-06B6D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PY-PYTHON-3776AB?style=for-the-badge"/></div>
 
-**GITHUB ANALYTICS** 
-
-
-<img src="https://streak-stats.demolab.com?user=Akam-tx&theme=tokyonight&hide_border=true&background=080B14&ring=8B5CF6&fire=06B6D4&currStreakLabel=9B8CFF"/></div>
 
 **PROJECTS** 
 
@@ -81,6 +80,7 @@ My approach combines learning, building, teaching and continuous experimentation
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=AI+Projects;Python+Projects;Django+Applications;Machine+Learning+Experiments;Deep+Learning+Projects"/></div>
 
+
 **GOALS** 
 
 <div align="center"><img src="https://img.shields.io/badge/BUILD-PRACTICAL%20AI%20SYSTEMS-6D28D9?style=for-the-badge"/>
@@ -88,6 +88,7 @@ My approach combines learning, building, teaching and continuous experimentation
 <img src="https://img.shields.io/badge/EXPLORE-DEEP%20LEARNING-06B6D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CREATE-REAL%20WORLD%20SOFTWARE-0891B2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CONTRIBUTE-OPEN%20SOURCE-14B8A6?style=for-the-badge"/></div>
+
 
 **CONNECT** 
 
