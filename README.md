@@ -56,6 +56,7 @@ My approach combines learning, building, teaching and continuous experimentation
 
 <div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/></div>
 
+<hr/>
 
 **SKILLS** 
 
