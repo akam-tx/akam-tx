@@ -138,6 +138,7 @@ My approach combines learning, building, teaching and continuous experimentation
 <hr>
 
 <div align="center">
+
 **CONNECT** 
 
 </div>
