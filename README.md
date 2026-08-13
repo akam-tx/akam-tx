@@ -1,3 +1,4 @@
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,50:6D28D9,100:06B6D4&height=230&section=header&text=Hi i'm&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&AlignY=60/>
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,50:6D28D9,100:06B6D4&height=230&section=header&text=AKAM&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=60&descSize=18"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=9B8CFF&center=true&vCenter=true&width=850&lines=Python+Developer;AI+Enthusiast;Machine+Learning+%7C+Deep+Learning;Django+Developer;Programming+Instructor;Building+Intelligent+Systems"/><br><br>
 
 <a href="https://github.com/Akam-tx">
