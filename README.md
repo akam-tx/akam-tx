@@ -1,146 +1,239 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:1E1B4B,45:4C1D95,70:1D4ED8,100:06B6D4&height=270&section=header&text=AKAM&fontSize=92&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=%3E_%20FULL-STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=16&descAlignY=61" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Experiences;Engineering+Scalable+Applications;TypeScript+%7C+React+%7C+Next.js;Backend+Engineering+With+Golang;Design.+Develop.+Deploy.+Repeat." /><br/><img src="https://komarev.com/ghpvc/?username=Akam-tx&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge" /><br/><br/>
 
-<a href="https://github.com/Akam-tx"><img src="https://img.shields.io/badge/GitHub-Akam--tx-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://instagram.com/akam_tx"><img src="https://img.shields.io/badge/Instagram-akam__tx-831843?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://t.me/akam_tx"><img src="https://img.shields.io/badge/Telegram-akam__tx-164E63?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:Akam.dev7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7F1D1D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,20:312E81,50:4338CA,75:1D4ED8,100:991B1B&height=250&section=header&text=AKAM&fontSize=95&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=FULL-STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=15&descAlignY=58&descColor=C4B5FD" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=750&lines=Crafting+Modern+Web+Experiences;Engineering+Scalable+Web+Applications;TypeScript+%7C+React+%7C+Next.js;Building+Powerful+Backends+with+Golang;Turning+Ideas+Into+Production-Ready+Products." />
+
+<br/>
+
+<a href="https://github.com/Akam-tx">
+<img src="https://komarev.com/ghpvc/?username=Akam-tx&style=for-the-badge&color=4338CA&label=PROFILE+VIEWS" />
+</a>
+
+<a href="https://github.com/Akam-tx?tab=followers">
+<img src="https://img.shields.io/github/followers/Akam-tx?style=for-the-badge&color=1D4ED8&labelColor=09090F&logo=github&label=FOLLOWERS" />
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_BUILDING-0F766E?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/FOCUS-WEB_ENGINEERING-312E81?style=flat-square&logo=react&logoColor=white" /></div>---
+[![GitHub](https://img.shields.io/badge/GitHub-09090F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Akam-tx)
+[![Instagram](https://img.shields.io/badge/Instagram-09090F?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/akam_tx)
+[![Telegram](https://img.shields.io/badge/Telegram-09090F?style=for-the-badge&logo=telegram&logoColor=38BDF8)](https://t.me/akam_tx)
+[![Email](https://img.shields.io/badge/Email-09090F?style=for-the-badge&logo=gmail&logoColor=EF4444)](mailto:Akam.dev7@gmail.com)
 
-<div align="center">◈ 01 — ABOUT ME
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" />Hello, I'm AKAM 👋
-
-Full-Stack Developer | Software Engineering Enthusiast
-
-I enjoy designing and building modern, scalable, and efficient web applications.
-
-My focus is on creating clean user interfaces, developing reliable backend systems, and engineering software that solves real-world problems.
-
-</div><div align="center"><img src="https://img.shields.io/badge/CREATIVE-ENGINEERING-6D28D9?style=flat-square" />
-<img src="https://img.shields.io/badge/CLEAN-CODE-0891B2?style=flat-square" />
-<img src="https://img.shields.io/badge/SCALABLE-SYSTEMS-7C3AED?style=flat-square" /></div>const developer = {
-  name: "AKAM",
-  role: "Full-Stack Developer",
-  frontend: ["JavaScript", "TypeScript", "React", "Next.js"],
-  backend: ["Golang", "Node.js", "Express"],
-  interests: [
-    "Software Architecture",
-    "Scalable Applications",
-    "Web Engineering"
-  ],
-  mindset: "Build. Learn. Improve. Repeat."
-};
+</div>
 
 ---
 
-<div align="center">◈ 02 — TECHNOLOGY UNIVERSE
+<div align="center">
 
-<img src="https://img.shields.io/badge/01-FRONTEND-312E81?style=for-the-badge" /><br/><br/>
+# WHO AM I?
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass&theme=dark" /><br/><br/>
+### Software Engineer | Full-Stack Web Developer
 
-<img src="https://img.shields.io/badge/02-BACKEND-164E63?style=for-the-badge" /><br/><br/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=go,nodejs,express,graphql&theme=dark" /><br/><br/>
+I am a developer passionate about building modern, scalable, and high-performance web applications.
 
-<img src="https://img.shields.io/badge/03-DATABASES-4C1D95?style=for-the-badge" /><br/><br/>
+My focus is on engineering elegant frontend experiences, designing reliable backend systems, and developing production-ready software with clean, maintainable architecture.
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" /><br/><br/>
+I enjoy transforming complex ideas into simple, efficient, and intuitive digital products.
 
-<img src="https://img.shields.io/badge/04-TOOLS_%26_ENVIRONMENT-1E40AF?style=for-the-badge" /><br/><br/>
+```typescript
+const AKAM = {
+  name: "Akam",
+  username: "Akam-tx",
+  role: "Full-Stack Web Developer",
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,postman,bash&theme=dark" /></div>---
+  frontend: [
+    "JavaScript",
+    "TypeScript",
+    "React.js",
+    "Next.js",
+    "Tailwind CSS"
+  ],
 
-<div align="center">◈ 03 — ENGINEERING FOCUS
+  backend: [
+    "Golang",
+    "Node.js",
+    "REST APIs"
+  ],
 
-<table align="center">
+  databases: [
+    "PostgreSQL",
+    "MongoDB",
+    "Redis"
+  ],
+
+  interests: [
+    "Web Engineering",
+    "Software Architecture",
+    "Scalable Applications",
+    "Performance Optimization"
+  ],
+
+  mindset: "Build. Improve. Innovate."
+};
+```
+
+---
+
+<div align="center">
+
+# TECHNOLOGY STACK
+
+*Tools and technologies I work with.*
+
+</div>
+
+### FRONTEND ENGINEERING
+
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="48" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="48" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="48" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" height="48" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="48" /></a>
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="48" /></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="48" /></a>
+</p>
+
+### BACKEND ENGINEERING
+
+<p align="center">
+<a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" height="48" /></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="48" /></a>
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="48" /></a>
+<a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" height="48" /></a>
+</p>
+
+### DATABASES & INFRASTRUCTURE
+
+<p align="center">
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="48" /></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="48" /></a>
+<a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" height="48" /></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="48" /></a>
+</p>
+
+### DEVELOPMENT TOOLS
+
+<p align="center">
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="48" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="48" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="48" /></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="48" /></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="48" /></a>
+</p>
+
+---
+
+<div align="center">
+
+# WHAT I BUILD
+
+</div>
+
+<table>
 <tr>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/FRONTEND-7C3AED?style=for-the-badge&logo=react&logoColor=white" />Frontend Development
+<td width="50%" valign="top">
 
-Responsive Interfaces
+### FRONTEND DEVELOPMENT
 
-React & Next.js Applications
-
-Type-Safe Development
-
-Component Architecture
-
-Performance Optimization
-
-Modern UI Engineering
+- Modern React Applications
+- Next.js Applications
+- TypeScript Architecture
+- Responsive Interfaces
+- Component-Based Design
+- UI/UX Implementation
+- Web Performance Optimization
 
 </td>
-<td align="center" width="50%"><img src="https://img.shields.io/badge/BACKEND-0891B2?style=for-the-badge&logo=go&logoColor=white" />Backend Development
+<td width="50%" valign="top">
 
-Golang Backend Services
+### BACKEND DEVELOPMENT
 
-RESTful API Development
-
-Database Design
-
-Authentication Systems
-
-Scalable Architecture
-
-API Integration
+- Golang Applications
+- RESTful API Development
+- Backend Architecture
+- Database Design
+- Authentication & Authorization
+- Scalable Services
+- API Integration
 
 </td>
 </tr>
-</table></div>---
-
-<div align="center">◈ 04 — DEVELOPER TERMINAL
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=700&color=34D399&center=true&vCenter=true&width=600&lines=%24+whoami;AKAM+-+Full-Stack+Developer;%24+cat+focus.txt;Building+scalable+web+applications;%24+go+build+./...;Build+successful+%E2%9C%93;%24+npm+run+build;Ready+for+deployment+%E2%9C%93" /></div>┌──(akam㉿dev)-[~/workspace]
-└─$ npm run build
-
-✓ Compiled successfully
-✓ Type checking completed
-✓ Production build generated
-
-┌──(akam㉿dev)-[~/workspace]
-└─$ go build ./...
-
-✓ Backend compiled successfully
+</table>
 
 ---
 
-<div align="center">◈ 05 — GITHUB ANALYTICS
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akam-tx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=67E8F9&text_color=CBD5E1&rank_icon=github" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akam-tx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1" /><br/><br/>
+# GITHUB ANALYTICS
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Akam-tx&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F43F5E&currStreakLabel=67E8F9" /></div>---
+*Consistency. Progress. Engineering.*
 
-<div align="center">◈ 06 — CONTRIBUTION MATRIX
+<br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akam-tx&bg_color=080B18&color=A78BFA&line=67E8F9&point=F43F5E&area=true&hide_border=true&custom_title=AKAM%20%2F%2F%20CODING%20ACTIVITY" /></div>---
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akam-tx&show_icons=true&hide_border=true&bg_color=09090F&title_color=A78BFA&icon_color=3B82F6&text_color=D1D5DB&ring_color=EF4444&include_all_commits=true" />
 
-<div align="center">◈ 07 — CONNECT WITH ME
-
-Let's build something meaningful.
-
-I'm interested in useful products, challenging projects, and engineering collaborations.
-
-<br/><a href="mailto:Akam.dev7@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-6D28D9?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akam-tx&layout=compact&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=D1D5DB&langs_count=8" />
 
 <br/><br/>
 
-<a href="https://github.com/Akam-tx"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" /></a>
-<a href="https://instagram.com/akam_tx"><img src="https://img.shields.io/badge/Instagram-831843?style=for-the-badge&logo=instagram" /></a>
-<a href="https://t.me/akam_tx"><img src="https://img.shields.io/badge/Telegram-164E63?style=for-the-badge&logo=telegram" /></a>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akam-tx&theme=transparent&hide_border=true&background=09090F&stroke=312E81&ring=A78BFA&fire=EF4444&currStreakLabel=60A5FA&sideLabels=A78BFA&dates=9CA3AF" />
+
+</div>
+
+---
+
+<div align="center">
+
+# CONTRIBUTION GRAPH
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akam-tx&bg_color=09090F&color=A78BFA&line=3B82F6&point=EF4444&area=true&area_color=312E81&hide_border=true&custom_title=AKAM%20%7C%20DEVELOPMENT%20ACTIVITY" />
+
+</div>
+
+---
+
+<div align="center">
+
+# LET'S CONNECT
+
+### Have an idea? Let's build something great.
+
+<br/>
+
+<a href="https://github.com/Akam-tx">
+<img src="https://img.shields.io/badge/GitHub-09090F?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+<a href="https://instagram.com/akam_tx">
+<img src="https://img.shields.io/badge/Instagram-09090F?style=for-the-badge&logo=instagram&logoColor=E1306C" />
+</a>
+
+<a href="https://t.me/akam_tx">
+<img src="https://img.shields.io/badge/Telegram-09090F?style=for-the-badge&logo=telegram&logoColor=38BDF8" />
+</a>
+
+<a href="mailto:Akam.dev7@gmail.com">
+<img src="https://img.shields.io/badge/Email-09090F?style=for-the-badge&logo=gmail&logoColor=EF4444" />
+</a>
 
 <br/><br/>
 
-while (alive) {
-    code();
-    learn();
-    build();
-    improve();
-}
+<a href="https://github.com/Akam-tx">
+<img src="https://img.shields.io/badge/OPEN_TO_COLLABORATION-312E81?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=900&color=67E8F9&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile!;Keep+building.+Keep+creating.;See+you+in+the+next+commit+%E2%9C%A8" /><br/><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,25:2563EB,50:6D28D9,75:312E81,100:020617&height=190&section=footer&animation=twinkling" /><sub>Designed with passion · Engineered with purpose · AKAM © 2026</sub>
+<br/><br/>
+
+**Designing the future. Engineering the web.**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:991B1B,30:1D4ED8,65:4338CA,100:09090F&height=150&section=footer" />
 
 </div>
