@@ -18,8 +18,8 @@
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-09090F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Akam-tx)
-[![Instagram](https://img.shields.io/badge/Instagram-09090F?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/akam_tx)
-[![Telegram](https://img.shields.io/badge/Telegram-09090F?style=for-the-badge&logo=telegram&logoColor=38BDF8)](https://t.me/akam_tx)
+[![Instagram](https://img.shields.io/badge/Instagram-09090F?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/akamtx)
+[![Telegram](https://img.shields.io/badge/Telegram-09090F?style=for-the-badge&logo=telegram&logoColor=38BDF8)](https://t.me/akamtx)
 [![Email](https://img.shields.io/badge/Email-09090F?style=for-the-badge&logo=gmail&logoColor=EF4444)](mailto:Akam.dev7@gmail.com)
 
 </div>
@@ -210,11 +210,11 @@ const AKAM = {
 <img src="https://img.shields.io/badge/GitHub-09090F?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
-<a href="https://instagram.com/akam_tx">
+<a href="https://instagram.com/akamtx">
 <img src="https://img.shields.io/badge/Instagram-09090F?style=for-the-badge&logo=instagram&logoColor=E1306C" />
 </a>
 
-<a href="https://t.me/akam_tx">
+<a href="https://t.me/akamtx">
 <img src="https://img.shields.io/badge/Telegram-09090F?style=for-the-badge&logo=telegram&logoColor=38BDF8" />
 </a>
 
